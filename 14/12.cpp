@@ -46,5 +46,8 @@ public:
 
 int main()
 {
+	Plantatie p1(1);
+	Plantatie p2 = p1;
 
+	return 0;
 }
